@@ -21,17 +21,19 @@ Our services have been used by the following companies:
 
 ## Tech Stack
 
-**Magento:** 2.4.7
+**Wordpress:** 2.4.7
 
 **PHP:** 8.2
 
 **Client:** HTML, CSS, Javascript
 
+**Linode:** the hosting platform used by webforgers
+
 ## FAQ
 
-#### What is Magento?
+#### What is Wordpress?
 
-Magento is a service provided by Adobe which creates the foundation of an E-commerce website.
+Wordpress is an extremelt popular tool to male websites of all kinds. With built in features, along with custom code, we at WebForgers provide the best websites.
 
 #### What is Linode?
 
